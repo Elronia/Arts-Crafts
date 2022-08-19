@@ -1,10 +1,11 @@
+
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*627vts*_ga*MzU2NDQzMTEzMS4xNjU4MzIyNzQ1*_ga_3LRZM6TM9L*MTY2MDg0OTQzMS4zMi4xLjE2NjA4NTA0OTMuNjAuMC4w");
-    color: yellow;
+    color: khaki;
     font-size: 100px;
     text-align: center;
 }
@@ -15,17 +16,17 @@ h2 {
 
 .green {
     color: white;
-    background-color: lawngreen;
+    background-color: mediumspringgreen;
 }
 
 .pink {
     color: white;
-    background-color: pink;
+    background-color: lightcoral;
 }
 
-.baby-blue {
+.sky-blue {
     color: white;
-    background-color: rgb(5, 126, 219);
+    background-color: skyblue;
 }
 
 .price {
